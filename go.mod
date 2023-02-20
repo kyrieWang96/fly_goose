@@ -1,4 +1,4 @@
-module github.com/kyrieWang96/fly_gooes
+module github.com/kyrieWang96/fly_goose
 
 go 1.18
 
